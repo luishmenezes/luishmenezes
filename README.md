@@ -11,7 +11,7 @@ Desenvolvedor Java, C#, html, css
 <h3 align="left">Social:</h3>
   <div>
   <a href="https://www.instagram.com/luishmenezees/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luishpmenezes@hotmail.com"><img src="https://cdn1.iconfinder.com/data/icons/application-file-formats/128/microsoft-outlook-512.png" target="_blank"></a>
+  <a href = "mailto:luishpmenezes@hotmail.com"><img src="https://cdn1.iconfinder.com/data/icons/application-file-formats/128/microsoft-outlook-512.png" width="10px" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-henrique-008a39246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 </div>

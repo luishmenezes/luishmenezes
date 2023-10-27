@@ -6,10 +6,7 @@ Desenvolvedor Java, C#, html, css
 
 <p>Sou apaixonado por tecnologia, graduado em ciências contábeis e atualmente estudo Sistemas para Internet na Universidade Católica de Pernambuco. Sou um bastante curioso e adoro resolver problemas, adoro conversar sobre as diferentes formas de se resolver um problema, sempre aprendendo e evoluindo. Aqui, estou registrando uma parte do meu processo de aprendizagem. </p><br/>
 
-java
-Public class Luis {
-    System.out.printLn("Olá mundo")
-}
+
 
 <h3 align="left">Social:</h3>
   <div>

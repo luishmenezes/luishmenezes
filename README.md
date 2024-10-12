@@ -27,6 +27,8 @@ Desenvolvedor Java | C# | JavaScript | html | css
    <img align="center" alt="Luis-HTML" height="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-CSS" height="45" width="35" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png">
+  <img align="center" alt="Luis-CSS" height="45" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
+  <img align="center" alt="Luis-CSS" height="45" width="35" src="https://usemobile.com.br/wp-content/uploads/2022/08/react-native-logo.png">
          
    </div>
   <p></p>

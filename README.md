@@ -12,7 +12,7 @@ Desenvolvedor Java | C# | JavaScript | html | css
   <div>
   <a href="https://www.instagram.com/luishmenezees/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="35px" target="_blank"></a>
   <a href = "mailto:luishpmenezes@hotmail.com"><img src="https://cdn1.iconfinder.com/data/icons/application-file-formats/128/microsoft-outlook-512.png" width="35px" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-henrique-008a39246" target="_blank"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" width="35px" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luis-henrique-008a39246" target="_blank"><img src="https://t.ctcdn.com.br/IwwDh-BajTE4ZwE4zuIcvz9Q2ZY=/i490027.jpeg" width="35px" target="_blank"></a> 
  </div>
 </div>
 <br>
